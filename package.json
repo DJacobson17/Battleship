@@ -1,0 +1,8 @@
+{
+  "name": "Battleship",
+  "packageManager": "yarn@3.2.4",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-plugin-jest": "^27.9.0"
+  }
+}
