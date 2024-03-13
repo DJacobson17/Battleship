@@ -1,8 +1,17 @@
 {
-  "name": "Battleship",
+  "name": "battleship",
   "packageManager": "yarn@3.2.4",
   "devDependencies": {
     "eslint": "^8.57.0",
     "eslint-plugin-jest": "^27.9.0"
-  }
+  },
+  "description": "This is a game created for <a href=\"https://www.theodinproject.com/lessons/javascript-battleship\" title=\"Go to TOP Battleship Project\" class=\"link-info\"> The Odin Project</a> that focusses on Test Driven Development.",
+  "version": "1.0.0",
+  "main": "jest.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC"
 }
